@@ -6,7 +6,7 @@
 - VOCBOX : Vocabulary learning app  (Available on AppStore)
   <img width="835" alt="Screenshot 2023-11-20 at 8 31 34 PM" src="https://github.com/jessie-pastan/jessie-pastan/assets/116131795/9644ac08-a2bc-41aa-aed9-8d7569a675a7">
 
-- FoodFridge : Create recipes, Effortless Cooking, Zero Waste app
+- FoodFridge : Create recipes, Effortless Cooking, Zero Waste app (Available on AppStore)
   ![FoodFridge-AppScreen](https://github.com/jessie-pastan/jessie-pastan/assets/116131795/5ed2c0d4-11c7-4b78-8bae-fe7869e85349)
   
 - Bubbles : Pet grooming business management app
