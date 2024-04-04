@@ -3,9 +3,14 @@
 - 🌱 I’m currently working as an iOS developer
 - 👯 I’m looking to collaborate on swiftUI project 😄  
 - ⚡ Here's my previous works
-- ![ShareMockupVocBox](https://github.com/jessie-pastan/jessie-pastan/assets/116131795/20e6a665-ccfc-4110-b5e7-770a9915f1e8)
-- -![FoodFridge-AppScreen](https://github.com/jessie-pastan/jessie-pastan/assets/116131795/5ed2c0d4-11c7-4b78-8bae-fe7869e85349)
-- <img width="1727" alt="Screenshot 2023-12-27 at 7 47 34 PM" src="https://github.com/jessie-pastan/jessie-pastan/assets/116131795/37d60c35-86a4-43f5-ae4b-88a237e98e2f">  
+- VOCBOX : Vocabulary learning app
+  <img width="835" alt="Screenshot 2023-11-20 at 8 31 34 PM" src="https://github.com/jessie-pastan/jessie-pastan/assets/116131795/9644ac08-a2bc-41aa-aed9-8d7569a675a7">
+
+- FoodFridge : App to Create recipes, Effortless Cooking, Zero Waste
+  -![FoodFridge-AppScreen](https://github.com/jessie-pastan/jessie-pastan/assets/116131795/5ed2c0d4-11c7-4b78-8bae-fe7869e85349)
+  
+- Bubbles : Pet grooming business management app
+  <img width="1727" alt="Screenshot 2023-12-27 at 7 47 34 PM" src="https://github.com/jessie-pastan/jessie-pastan/assets/116131795/37d60c35-86a4-43f5-ae4b-88a237e98e2f">  
 
 
 
