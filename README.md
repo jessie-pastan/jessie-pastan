@@ -6,7 +6,7 @@
 - 📬 Reach me: https://www.linkedin.com/in/jessie-pastan/
 - ⚡ Here's some of my previous works
 - VOCBOX : Vocabulary learning app : Core Data
-  https://apps.apple.com/us/app/vocbox/id6471903173?platform=iphone
+- Download -> https://apps.apple.com/us/app/vocbox/id6471903173?platform=iphone
   <img width="835" alt="Screenshot 2023-11-20 at 8 31 34 PM" src="https://github.com/jessie-pastan/jessie-pastan/assets/116131795/9644ac08-a2bc-41aa-aed9-8d7569a675a7">
 
 - FoodFridge : Create recipes, Effortless Cooking, Zero Waste app : RESTful APIs
