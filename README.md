@@ -3,7 +3,8 @@
 - 🌱 I’m currently working as an iOS developer
 - 👯 I’m looking to collaborate on swiftUI project 😄  
 - ⚡ Here's some of my previous works
-- VOCBOX : Vocabulary learning app
+- VOCBOX : Vocabulary learning app  ![app-store-png-logo-33116](https://github.com/jessie-pastan/jessie-pastan/assets/116131795/1827b742-696b-460d-a174-541aabcae466)
+
   <img width="835" alt="Screenshot 2023-11-20 at 8 31 34 PM" src="https://github.com/jessie-pastan/jessie-pastan/assets/116131795/9644ac08-a2bc-41aa-aed9-8d7569a675a7">
 
 - FoodFridge : App to Create recipes, Effortless Cooking, Zero Waste
