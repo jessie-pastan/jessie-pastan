@@ -5,13 +5,13 @@
 - 👻 Fun fact: I can't sleep without eye mask 😄
 - 📬 Reach me: https://www.linkedin.com/in/jessie-pastan/
 - ⚡ Here's some of my previous works
-- VOCBOX : Vocabulary learning app  
+- VOCBOX : Vocabulary learning app : Core Data
   <img width="835" alt="Screenshot 2023-11-20 at 8 31 34 PM" src="https://github.com/jessie-pastan/jessie-pastan/assets/116131795/9644ac08-a2bc-41aa-aed9-8d7569a675a7">
 
-- FoodFridge : Create recipes, Effortless Cooking, Zero Waste app 
+- FoodFridge : Create recipes, Effortless Cooking, Zero Waste app : RESTful APIs
   ![FoodFridge-AppScreen](https://github.com/jessie-pastan/jessie-pastan/assets/116131795/5ed2c0d4-11c7-4b78-8bae-fe7869e85349)
   
-- Bubbles : Pet grooming business management app
+- Bubbles : Pet grooming business management app : Firebase SDK
   <img width="1727" alt="Screenshot 2023-12-27 at 7 47 34 PM" src="https://github.com/jessie-pastan/jessie-pastan/assets/116131795/37d60c35-86a4-43f5-ae4b-88a237e98e2f">  
 
 
